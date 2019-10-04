@@ -1,0 +1,14 @@
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\bin\Debug\Cpsusg.exe.config
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\bin\Debug\Cpsusg.exe
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\bin\Debug\Cpsusg.pdb
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\bin\Debug\MetroFramework.Design.dll
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\bin\Debug\MetroFramework.dll
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.csprojAssemblyReference.cache
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.Form1.resources
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.Properties.Resources.resources
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.csproj.GenerateResource.cache
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.csproj.CoreCompileInputs.cache
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.csproj.CopyComplete
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.exe
+C:\Users\rakhmadi\source\repos\Cpsusg\Cpsusg\obj\Debug\Cpsusg.pdb
